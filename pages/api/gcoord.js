@@ -9,9 +9,9 @@ export default (req, res) => {
 function transformCoord(params) {
   const { lng, lat, current, target } = params;
   var result = gcoord.transform(
-    [lng, lat], // 经纬度坐标
-    gcoord[current], // 当前坐标系
-    gcoord[target] // 目标坐标系
+    [lng, lat], // lng lng coordination
+    gcoord[current], // current coordinate
+    gcoord[target] // target coordinate
   );
   return {
     lng: result[0],
