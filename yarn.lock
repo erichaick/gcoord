@@ -2520,6 +2520,11 @@ function-bind@^1.1.1:
   resolved "https://registry.yarnpkg.com/function-bind/-/function-bind-1.1.1.tgz#a56899d3ea3c9bab874bb9773b7c5ede92f4895d"
   integrity sha512-yIovAzMX49sF8Yl58fSCWJ5svSLuaibPxXQJFLmBObTuCr0Mf1KiPopGM9NiFjiYBCbfaa2Fh6breQ6ANVTI0A==
 
+gcoord@^0.2.3:
+  version "0.2.3"
+  resolved "https://registry.yarnpkg.com/gcoord/-/gcoord-0.2.3.tgz#bdf8d48ed199785177eb29727ef3ab16b29d895e"
+  integrity sha512-BxSlrzGzv/tNzkyTS3/wWTH/EL0dWFLGNAC2wNFPUrlJ5dm9qrzgE6G1kuT/hjkbzr68tlDimcw6wZ3YCwHWzg==
+
 get-value@^2.0.3, get-value@^2.0.6:
   version "2.0.6"
   resolved "https://registry.yarnpkg.com/get-value/-/get-value-2.0.6.tgz#dc15ca1c672387ca76bd37ac0a395ba2042a2c28"
